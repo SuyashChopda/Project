@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\.github",
+    "\\.github\\workflows",
+    "\\src",
+    "\\src\\app",
+    "\\src\\app\\auth",
+    "\\src\\app\\recipes",
+    "\\src\\app\\recipes\\recipe-edit",
+    "\\src\\app\\shopping-list",
+    "\\src\\environments"
+  ],
+  "SelectedNode": "\\.github",
+  "PreviewInSolutionExplorer": false
+}
